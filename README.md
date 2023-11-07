@@ -1,5 +1,9 @@
-# figma-design
-### Travel Buddy UI
+# Figma Design
+## Travel Buddy UI 🧭
 ![Ui](figmadesign/Group10.png)
-### Restaurant UI
+<br>
+<br>
+<br>
+
+## Restaurant UI 🍜
 ![Restaurant](figmadesign/restaurant.png)
