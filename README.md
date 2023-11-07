@@ -1,3 +1,3 @@
 # figma-design
-![Logo](figmadesign/Group10.png)
-![Logo](figmadesign/restaurant.png)
+![Ui](figmadesign/Group10.png)
+![Restaurant](figmadesign/restaurant.png)
